@@ -1,0 +1,19 @@
+{
+  "name": "@my-vision/streaming",
+  "version": "1.0.0",
+  "description": "Virtual Reality streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "Virtual Reality streaming"
+  ],
+  "author": "Airstair",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@my-vision/content-types": "file:../content-types",
+    "@my-vision/utils": "file:../utils"
+  }
+}

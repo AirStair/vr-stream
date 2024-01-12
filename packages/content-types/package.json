@@ -1,0 +1,15 @@
+{
+  "name": "@my-vision/content-types",
+  "version": "1.0.0",
+  "description": "Virtual Reality server content-types",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "Virtual Reality server content-types"
+  ],
+  "author": "Airstair",
+  "license": "ISC",
+  "type": "module"
+}

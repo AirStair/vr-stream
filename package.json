@@ -1,0 +1,21 @@
+{
+  "name": "my-vision",
+  "version": "1.0.0",
+  "description": "Virtual Reality for the Web",
+  "keywords": [
+    "Virtual Reality"
+  ],
+  "author": "Airstair",
+  "license": "ISC",
+  "workspaces": [
+    "packages/content-types",
+    "packages/rendering",
+    "packages/streaming",
+    "packages/server",
+    "packages/utils"
+  ],
+  "scripts": {
+    "test": "npm t -ws --if-present",
+    "start": "npm -w packages/server start"
+  }
+}
