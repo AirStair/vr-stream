@@ -1,5 +1,5 @@
 {
-  "name": "@my-vision/server",
+  "name": "@vr-stream/server",
   "version": "1.0.0",
   "description": "Virtual Reality server",
   "main": "server.js",
