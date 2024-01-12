@@ -1,4 +1,4 @@
-import { resolve } from '@my-vision/utils';
+import { resolve } from '@vr-stream/utils';
 import { strictEqual } from 'node:assert';
 import { rendering } from './index.js';
 import { test } from 'node:test';
