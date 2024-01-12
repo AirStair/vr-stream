@@ -1,5 +1,5 @@
 {
-  "name": "@my-vision/streaming",
+  "name": "@vr-stream/streaming",
   "version": "1.0.0",
   "description": "Virtual Reality streaming",
   "main": "index.js",
