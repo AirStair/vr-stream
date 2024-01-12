@@ -1,4 +1,4 @@
-import { getContentType } from '@my-vision/content-types';
+import { getContentType } from '@vr-stream/content-types';
 import { promises, createReadStream } from 'node:fs';
 
 export const streaming = (stream, { range }) => async file => {
