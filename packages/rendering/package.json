@@ -1,5 +1,5 @@
 {
-  "name": "@my-vision/rendering",
+  "name": "@vr-stream/rendering",
   "version": "1.0.0",
   "description": "Virtual Reality rendering",
   "main": "index.js",
