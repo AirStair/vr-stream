@@ -1,7 +1,7 @@
-import { rendering } from '@my-vision/rendering';
-import { streaming } from '@my-vision/streaming';
+import { rendering } from '@vr-stream/rendering';
+import { streaming } from '@vr-stream/streaming';
 import { createSecureServer } from 'node:http2';
-import { resolve } from '@my-vision/utils';
+import { resolve } from '@vr-stream/utils';
 import { readFileSync } from 'node:fs';
 
 import { port } from './const.js';
