@@ -1,5 +1,5 @@
 {
-  "name": "@my-vision/content-types",
+  "name": "@vr-stream/content-types",
   "version": "1.0.0",
   "description": "Virtual Reality server content-types",
   "main": "index.js",
