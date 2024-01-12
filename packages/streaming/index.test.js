@@ -1,4 +1,4 @@
-import { resolve } from '@my-vision/utils';
+import { resolve } from '@vr-stream/utils';
 import { strictEqual } from 'node:assert';
 import { test, mock } from 'node:test';
 import { streaming } from './index.js';
