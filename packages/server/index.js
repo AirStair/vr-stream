@@ -40,8 +40,8 @@ server.on('stream', async (stream, headers) => {
             await template(resolve(meta, './public/main.js'));
             break;
             
-        case '/5.webm':
-            readStream('./public/5.webm');
+        case '/5.mp4':
+            readStream('./public/5.mp4');
             break;
     }
 });
